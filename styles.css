@@ -71,7 +71,7 @@ text-decoration: underline;
 }
 .development {
     
-    width: 70%;
+    width: 50%;
     float: left;
     margin-right: 50px;
     border-radius: 40%;
@@ -80,7 +80,7 @@ text-decoration: underline;
 
 .family {
     
-    width: 70%;
+    width: 50%;
     border-radius: 40%;
     float: right;
     margin-left: 50px;
@@ -92,7 +92,7 @@ text-decoration: underline;
     
 }
 .troy {
-    width: 12%;
+    width: 20%;
     padding-top: 5%;
 }
 hr {
