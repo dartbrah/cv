@@ -61,18 +61,7 @@ p{
 .pro {
 text-decoration: underline;    
 }
-.bottom-cloud {
-    position: absolute;
-    left: 25%;
-    top: 45%;
-    
-}
 
-.top-cloud{
-position: absolute;
-left: 70%;
-top: 15%;
-}
 
 .skill-row {
     width: 55%;
