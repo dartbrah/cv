@@ -71,7 +71,7 @@ text-decoration: underline;
 }
 .development {
     
-    width: 50%;
+    width: 40%;
     float: left;
     margin-right: 50px;
     border-radius: 40%;
@@ -80,7 +80,7 @@ text-decoration: underline;
 
 .family {
     
-    width: 50%;
+    width: 40%;
     border-radius: 40%;
     float: right;
     margin-left: 50px;
