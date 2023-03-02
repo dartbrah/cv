@@ -13,9 +13,9 @@ background-color: antiquewhite;
     display:inline-block;
     
     
-    margin: 0;
+    
     position: absolute;
-    right: 2px;
+    left: 53%;
     text-align: center;
     line-height: 110px;
     font-family: 'Open Sans', sans-serif;
